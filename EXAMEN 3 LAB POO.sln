@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXAMEN 3 LAB POO", "EXAMEN 3 LAB POO\EXAMEN 3 LAB POO.csproj", "{4C2BECBE-9F54-448D-8630-F286D4FF3736}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HM21444", "HM21444\HM21444.vdproj", "{AEA197B9-1810-44C5-A306-0028933AD88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2BECBE-9F54-448D-8630-F286D4FF3736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2BECBE-9F54-448D-8630-F286D4FF3736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2BECBE-9F54-448D-8630-F286D4FF3736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2BECBE-9F54-448D-8630-F286D4FF3736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA197B9-1810-44C5-A306-0028933AD88B}.Debug|Any CPU.ActiveCfg = Debug
+		{AEA197B9-1810-44C5-A306-0028933AD88B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20FDD33-C368-4CAC-9A85-DF4F7132BB19}
+	EndGlobalSection
+EndGlobal
